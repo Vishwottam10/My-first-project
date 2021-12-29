@@ -1,5 +1,5 @@
- |SL.NO.|TEAM MEMEBER NAME|USN|ROLL NO.|MOBILE NO.|
- |------|-----------------|---|--------|----------|
+ |SL.NO.|TEAM MEMBER NAME|USN|ROLL NO.|MOBILE NO.|
+ |------|----------------|---|--------|----------|
  |1|Vishwottam K.|01FE21BME009|134|7338276662|
  |2|Prem|01FE21BME008|133|8660233770|
  |3|Abhishek C.|01FE21BME004|128|9449569708|
