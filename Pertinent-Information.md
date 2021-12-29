@@ -41,7 +41,7 @@ system. A flowchart is depicted below in figure 3 which explains the processing 
 
 ![Haptic device(agent)](https://i.postimg.cc/RFcJMcr3/Whats-App-Image-2021-12-29-at-4-15-03-PM.jpg)
 
-
+ ![](https://i.postimg.cc/QdWCqp6F/Functionality-2.png)
 # Components required 
 ## 1]Arduino UNO
 ![](https://lh5.googleusercontent.com/_MVmJGxq2VcGjPmG2inL36D6_DFls6Vho6tdJtDfcPoy63-ZNdGsDstc58HLDQvhka3VB-iR-g_-342oaz1zQwPfY8Nwvx0rRAIvWF004W6QeVTLTU-EET90H8ZLMU8lPLXcbbM) 
