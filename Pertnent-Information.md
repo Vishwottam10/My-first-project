@@ -39,6 +39,8 @@ system will begin spraying the color. The sprayed position and sprayed shape is 
 the depiction to the computer. Computer compares the sprayed image with the desired pattern which helps in keeping track of the working of the 
 system. A flowchart is depicted below in figure 3 which explains the processing of this system.
 
+![Haptic device(agent)](https://i.postimg.cc/RFcJMcr3/Whats-App-Image-2021-12-29-at-4-15-03-PM.jpg)
+
 
 # Components required 
 ## 1]Arduino UNO
