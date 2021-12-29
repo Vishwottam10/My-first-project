@@ -15,7 +15,7 @@ drawing and artistic capacities as a hand drawn painting does not have the requi
 drawing robots that can mimic the complexity and style of human modeling of Rangoli by applying Computer Aided Rangoli mechanism. The
 project places emphasis on outdoor painting, a domestic application using small robots.
 
-# Our Approach :MULTILAYERED:
+## Multilayered approach 
 ![](https://i.postimg.cc/26dsYjWT/MULTILAYERED-APPROACH.png)  
 
 ## SETUP EXPLANATION:
