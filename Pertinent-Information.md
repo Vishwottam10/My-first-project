@@ -66,3 +66,6 @@ system. A flowchart is depicted below in figure 3 which explains the processing 
 
 ## 8]Wheels
 ![](https://lh5.googleusercontent.com/I65_4arV6pF-oEkWnAa_vxKCX7mEFz7BxJnJBD1kSrfz2k1I4lW9rCEdrZL3q_UgWJdENhG9Eg37riEmKV6WjTb4vEwPq3rQxvrEm9xmWfhp4ikYcstVKqDTxwbX8nRHJzpNSEU)
+
+# REFRENCE LINKS: http://iedprojects2015.blogspot.com/2015/03/rangoli-making-robot.html
+                  https://www.researchgate.net/publication/286451406_Smart_Structure_for_Automated_Rangoli
