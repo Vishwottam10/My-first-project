@@ -15,7 +15,7 @@ drawing and artistic capacities as a hand drawn painting does not have the requi
 drawing robots that can mimic the complexity and style of human modeling of Rangoli by applying Computer Aided Rangoli mechanism. The
 project places emphasis on outdoor painting, a domestic application using small robots. 
 
-# SETUP EXPLANATION:
+## SETUP EXPLANATION:
 
 The best part of this system is its interactive behavior with the haptic device which is carried out using optical sensor for
 feedback. This feedback is processed and passed to Arduino placed on the agent through wireless medium for controlling the movement of the 
