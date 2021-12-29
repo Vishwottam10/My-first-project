@@ -67,14 +67,15 @@ system. A flowchart is depicted below in figure 3 which explains the processing 
 ## 8]Wheels
 ![](https://lh5.googleusercontent.com/I65_4arV6pF-oEkWnAa_vxKCX7mEFz7BxJnJBD1kSrfz2k1I4lW9rCEdrZL3q_UgWJdENhG9Eg37riEmKV6WjTb4vEwPq3rQxvrEm9xmWfhp4ikYcstVKqDTxwbX8nRHJzpNSEU)
 
-1]Arduino UNO : 550 rs 
-2]H-Bridge L298: 250 rs
-3]2200 mAh Battery: 60rs
-4]Caster wheel: 50rs
-5]Robot Mount to making: 650rs+450 rs=1100
-6]2 DC motors: 60rs
-7]1 Servo motor: 110rs
-8]Wheels: 80rs
+# Estimation Cost:
+1. Arduino UNO : 550 rs 
+2. H-Bridge L298: 250 rs
+3. 2200 mAh Battery: 60rs
+4. Caster wheel: 50rs
+5. Robot Mount to making: 650rs+450 rs=1100
+6. 2 DC motors: 60rs
+7. 1 Servo motor: 110rs
+8. Wheels: 80rs
 --------------------------------------------------------
 Total : 2,260 
 
