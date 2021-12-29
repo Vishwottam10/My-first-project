@@ -15,6 +15,28 @@ drawing and artistic capacities as a hand drawn painting does not have the requi
 drawing robots that can mimic the complexity and style of human modeling of Rangoli by applying Computer Aided Rangoli mechanism. The
 project places emphasis on outdoor painting, a domestic application using small robots. 
 
+# SETUP EXPLANATION:
+
+The best part of this system is its interactive behavior with the haptic device which is carried out using optical sensor for
+feedback. This feedback is processed and passed to Arduino placed on the agent through wireless medium for controlling the movement of the 
+agent. Arduino is an open-source physical computing platform based on a simple microcontroller board, and a development environment for writing 
+software for the board. It is easy to implement, has a simple structure with huge functionality. In this system Arduino UNO board is used. Arduino 
+is connected to a wireless device ZigBee for receiving signal from the system through ZigBee shield. For the movement of agent Johnson geared 
+wheels having 7inches by 6inches dimension is used, the agent is significantly denoted by a glowing LED on center of the sprinkler in order to 
+distinguish it from any other object in the vicinity of the camera. Johnson geared wheels are controlled by Arduino through Dual H-Bridge
+which accepts standard TTL logic levels and drive inductive loads such as motors. The Arduino is programmed to control the movement of the 
+agent and for spraying color.
+
+Rangoli to be drawn is first browsed and then it is passed through an edge detection filter for extracting the edges of desired Rangoli. Layer 3 
+virtually project this edge detected image. The system begins examining starting with one corner then onto the next in a straight manner as it may 
+be. Here supposition is that the canvas will be of square or rectangular shape henceforth examining for the focuses is raster scanning method. All the 
+while it likewise locates agent’s position at first glance which is projected in layer 4. While scanning, system compares layer1 and Layer3 of the 
+multilayered approach. In the wake of getting agent’s position system sends agent to first spot on Physical Layer or Layer 1. From there onwards the 
+system will begin spraying the color. The sprayed position and sprayed shape is checked by the camera where it is always sending the live status of 
+the depiction to the computer. Computer compares the sprayed image with the desired pattern which helps in keeping track of the working of the 
+system. A flowchart is depicted below in figure 3 which explains the processing of this system.
+
+
 # Components required 
 ## 1]Arduino UNO
 ![](https://lh5.googleusercontent.com/_MVmJGxq2VcGjPmG2inL36D6_DFls6Vho6tdJtDfcPoy63-ZNdGsDstc58HLDQvhka3VB-iR-g_-342oaz1zQwPfY8Nwvx0rRAIvWF004W6QeVTLTU-EET90H8ZLMU8lPLXcbbM) 
