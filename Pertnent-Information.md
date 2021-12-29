@@ -13,7 +13,10 @@ drawing robots can be serious indeed. The development of service robot became po
 human from the tedious, exhaustive physical efforts and time consuming job. Recent generations of robots has even more resemble to humans like
 drawing and artistic capacities as a hand drawn painting does not have the required looks as desired. This motivated researchers to design interactive
 drawing robots that can mimic the complexity and style of human modeling of Rangoli by applying Computer Aided Rangoli mechanism. The
-project places emphasis on outdoor painting, a domestic application using small robots. 
+project places emphasis on outdoor painting, a domestic application using small robots.
+
+# Our Approach :MULTILAYERED:
+![](https://i.postimg.cc/26dsYjWT/MULTILAYERED-APPROACH.png)  
 
 ## SETUP EXPLANATION:
 
