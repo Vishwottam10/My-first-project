@@ -56,7 +56,7 @@ system. A flowchart is depicted below in figure 3 which explains the processing 
 ![](https://lh6.googleusercontent.com/vS6SVLq8Fv8C_HFTONT29HQGzUmZ0zexwbC8XeK7wHjGSHDlmzcnWxxgPCqDDKYMZ6KxEIaNdQXKGmNAa5hAhtmFfZncdJ0STo-yfILwia-O1mO51MAyNjuouXqcJerktcFbSDs)
 
 ## 5]Robot Mount
-![](https://lh5.googleusercontent.com/I65_4arV6pF-oEkWnAa_vxKCX7mEFz7BxJnJBD1kSrfz2k1I4lW9rCEdrZL3q_UgWJdENhG9Eg37riEmKV6WjTb4vEwPq3rQxvrEm9xmWfhp4ikYcstVKqDTxwbX8nRHJzpNSEU)
+![](https://lh5.googleusercontent.com/tjbUyerklKJA1GsJwg6_8g7c0WukZfLknFHyBroKezGkl38NTlh8Iz4F2YaHqKU2_uLiynOd85A47M4hNOkpgxOfqOw0Tr_ZierFfXIw1uXqbJMHAdY_3mPxcDwMkmLYYiyRNlg)
 
 ## 6]2 DC motors
 ![](https://lh4.googleusercontent.com/xrF3MaYEa370v2rcFL5gBWx5AwDt9TKNoK2M-oSLeupp8nOKqQWREym2dtKxJPgwAIoUi5Aji5fPM0FAK2l0t5Cysipp4HhT4RkPr9J6ZDEFUgcJ5Lcv__JE6nxcIlX99MqAzHk)
